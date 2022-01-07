@@ -18,11 +18,11 @@ Putty app, Remote Desktop Connection app, Credit/Debit Card, Phone number(for Ve
     4. For AMI selection select Community AMI and then paste ami-010e8c0e8eb915b33 to the search bar and "Ubuntu with Xfig should appear" then press on select![image](https://user-images.githubusercontent.com/82111747/147860829-ab055201-7b8e-4fe9-933b-5d62c9098ee4.png)
     5. For the Instance type select t2.medium the one that 2 vCPUs and 4 GiB of Memory or higher
     6. Click on Review on Launch then click on launch
-    7. A pop-up should appear about a key pair clcik on create a new key pai name it on the box below then click on download then click on launch
+    7. A pop-up should appear about a key pair click on create a new key pai name it on the box below then click on download then click on launch
     8. Go back to instance and click on the new instance id you just created and copy your Public IPv4 Address
 
 2. Configuring your machine with your computer
-    1. Open Puttygen and clcik on load and select the .ppk file you downloaded
+    1. Open Puttygen and click on load and select the .ppk file you downloaded
 
 
 
